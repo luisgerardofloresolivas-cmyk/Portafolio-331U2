@@ -1,0 +1,14 @@
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\bin\Debug\net10.0\Maraton.exe
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\bin\Debug\net10.0\Maraton.deps.json
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\bin\Debug\net10.0\Maraton.runtimeconfig.json
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\bin\Debug\net10.0\Maraton.dll
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\bin\Debug\net10.0\Maraton.pdb
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\Maraton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\Maraton.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\Maraton.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\Maraton.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\Maraton.dll
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\refint\Maraton.dll
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\Maraton.pdb
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\Maraton.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Documentos\CSharp\Maraton\obj\Debug\net10.0\ref\Maraton.dll
